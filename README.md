@@ -78,7 +78,8 @@ Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BKSrn/BKSrn/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/BKSrn/BKSrn/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation" />
 </div>
 
 ---
