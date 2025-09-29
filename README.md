@@ -24,11 +24,10 @@ Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40"/>
  
 </div>
 
-## 📊 Projetos em Destaque
+## Projetos em Destaque
 
 ### BuscadorCep
 - **Tecnologia:** Java
@@ -45,7 +44,7 @@ Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal
 - **Descrição:** Análise e manipulação de dados usando Python
 - **Aprendizados:** Data Science, visualização de dados
 
-## 📈 Dados GitHub
+## Dados GitHub
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BKSrn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
