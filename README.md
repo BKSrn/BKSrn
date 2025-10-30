@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=6DB33F&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+Bernardo+Kist+Souza;Desenvolvedor+Java;Recém-graduado+Instituto+Federal;Focado+em+API+Integration" />
 </div>
 
-## ⭐Sobre mim
+## Sobre mim
 
 Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal**. Tenho paixão por programação e estou sempre em busca de novos desafios técnicos. Meu foco atual está no desenvolvimento de aplicações robustas e integração de APIs.
 
