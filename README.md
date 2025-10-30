@@ -6,7 +6,8 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal**. Tenho paixão por programação e estou sempre em busca de novos desafios técnicos. Meu foco atual está no desenvolvimento de aplicações robustas e integração de APIs.
+Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal**. Meu foco atual está no desenvolvimento Back-End utilizando SpringBoot e, no momento, estou expandindo minha atuação profissional estudando frameworks Front-End como o Angular, visando uma formação mais completa como desenvolvedor Full Stack.
+Sou uma profissional dedicado, apaixonado por aprender e por compartilhar conhecimento. Estou em busca de novas oportunidades na área de TI, especialmente em ambientes que valorizem o crescimento contínuo e o trabalho em equipe.
 
 - **Formação:** Instituto Federal (2025)
 - **Procurando colaborar em:** Projetos Java e integração de APIs
