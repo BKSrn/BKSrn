@@ -57,7 +57,8 @@ Sou um profissional dedicado, apaixonado por aprender e por compartilhar conheci
 </div>
 
 ### Padrões e Conceitos
-- **Padrões de Projeto** 
+- **Dev'Ops**
+- **SOLID** 
 - **Testes Automatizados** 
 - **DTO (Data Transfer Object)** 
 - **Exception Handling** 
