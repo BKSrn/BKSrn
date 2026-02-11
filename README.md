@@ -179,8 +179,5 @@ API REST completa para sistema de vendas, implementando operações CRUD e regra
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BKSrn&color=6DB33F&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do perfil" />
-  
-  ### "O aprendizado contínuo é a chave para o crescimento contínuo"
-  
-  De [BKSrn](https://github.com/BKSrn)
+    
 </div>
