@@ -1,96 +1,186 @@
-# Olá Pessoal
+# Olá, eu sou Bernardo Kist Souza
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6DB33F&size=35&center=true&vCenter=true&width=1000&lines=Eu+sou+Bernardo+Kist+Souza;Desenvolvedor+Java;Recém-graduado+Instituto+Federal;Focado+em+API+Integration" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6DB33F&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+%7C+Java;Graduado+Instituto+Federal+2025;Focado+em+Spring+Boot+e+Integração+de+APIs)](https://git.io/typing-svg)
+  
 </div>
 
-## Sobre mim
+## Sobre Mim
 
-Sou um desenvolvedor **Java** de 19 anos, recém-graduado do **Instituto Federal**. Meu foco atual está no desenvolvimento Back-End utilizando SpringBoot e, no momento, estou expandindo minha atuação profissional estudando frameworks Front-End como o Angular, visando uma formação mais completa como desenvolvedor Full Stack.
-Sou um profissional dedicado, apaixonado por aprender e por compartilhar conhecimento. Estou em busca de novas oportunidades na área de TI, especialmente em ambientes que valorizem o crescimento contínuo e o trabalho em equipe.
+Desenvolvedor Backend Java apaixonado por construir aplicações robustas e escaláveis. Recém-graduado do **Instituto Federal** com experiência prática em Spring Boot, APIs RESTful e gerenciamento de banco de dados.
+
+Sou um profissional dedicado que ama aprender, compartilhar conhecimento e contribuir em projetos significativos. Me destaco em ambientes colaborativos que valorizam o crescimento contínuo e boas práticas de desenvolvimento.
 
 - **Formação:** Instituto Federal (2025)
-- **Procurando colaborar em:** Projetos Java e integração de APIs
-- **Objetivo 2025:** Expandir conhecimentos em arquitetura de software
+- **Aprendendo:** Padrões avançados de Spring Boot e arquitetura de software
+- **Aberto para Colaborar Em:** Projetos Java, APIs REST e contribuições open-source
+- **Objetivo 2025:** Dominar arquitetura de software e design patterns
+---
 
-### Estou aprendendo
+## Tecnologias e Ferramentas
 
+### Linguagens e Frameworks
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
 </div>
+
+### Bancos de Dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="45" alt="SQL Developer" title="SQL Developer"/>
+</div>
+
+### Ferramentas e Tecnologias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="45" alt="JUnit" title="JUnit"/>
+</div>
+
+---
 
 ## Projetos em Destaque
 
-### BuscadorCep
-- **Tecnologia:** Java
-- **Descrição:** Aplicação para busca de CEPs com integração de API externa
-- **Aprendizados:** Manipulação de JSON, tratamento de exceções
+### [BuscadorCep](https://github.com/BKSrn/buscador_cep_api)
+**Java | Integração REST API**
 
-### Agente IA
-- **Tecnologia:** Python
-- **Descrição:** Projeto desenvolvido durante a imersão focada em inteligência artificial
-- **Experiência:** Trabalho com APIs de IA e integração de modelos
+Aplicação para busca de CEP (Código de Endereçamento Postal) com integração de API externa. Implementa tratamento adequado de erros, parsing de JSON e princípios de arquitetura limpa.
 
-### Imersão Dados Python
-- **Tecnologia:** Python
-- **Descrição:** Análise e manipulação de dados usando Python
-- **Aprendizados:** Data Science, visualização de dados
+**Principais Funcionalidades:**
+- Consumo de API externa (ViaCEP)
+- Manipulação de dados JSON
+- Tratamento de exceções e validação
+- Práticas de código limpo
 
-## Dados GitHub
+---
+
+### [API com Testes Automatizados](https://github.com/BKSrn/api-refatorando-testes_automatizados)
+**Java | Spring Boot | JUnit | Mockito**
+
+Projeto de estudo abrangente focado em testes automatizados com JUnit e Mockito. Demonstra princípios de TDD e melhores práticas em testes unitários e de integração.
+
+**Principais Aprendizados:**
+- Testes unitários com JUnit 5
+- Mocking com Mockito
+- Desenvolvimento Orientado a Testes (TDD)
+- Cobertura e qualidade de código
+
+---
+
+### [Gerador de Frases de Séries](https://github.com/BKSrn/gerador-frase-series-api)
+**Java | Spring Boot | REST API**
+
+API REST que gera e gerencia frases de séries de TV populares. Apresenta operações CRUD e demonstra princípios de design de API RESTful.
+
+**Tecnologias:**
+- Framework Spring Boot
+- Arquitetura RESTful
+- Persistência de dados
+- Documentação de API
+
+---
+
+### [Agente IA](https://github.com/BKSrn/agente_ia)
+**Python | Inteligência Artificial**
+
+Projeto desenvolvido durante a imersão de IA da Alura. Explora integração de IA e implementação de modelos.
+
+**Experiência:**
+- Integração de APIs de IA
+- Fundamentos de machine learning
+- Interação com modelos
+
+---
+
+### [RestApiVend](https://github.com/BKSrn/RestApiVend)
+**Java | Spring Boot | REST API**
+
+API REST completa para sistema de vendas, implementando operações CRUD e regras de negócio. Demonstra arquitetura em camadas e boas práticas de desenvolvimento backend.
+
+**Principais Características:**
+- Arquitetura em camadas (Controller, Service, Repository)
+- Operações CRUD completas
+- Validação de dados
+- Tratamento de erros personalizado
+- Persistência com JPA/Hibernate
+
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BKSrn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKSrn&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BKSrn&show_icons=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub do Bernardo" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKSrn&layout=compact&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens Mais Usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BKSrn&theme=dark&hide_border=true&stroke=0000&background=0D1117&currStreakLabel=00bfbf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BKSrn&theme=dark&hide_border=true&stroke=0000&background=0D1117&currStreakLabel=6DB33F&ring=6DB33F&fire=6DB33F" alt="Sequência GitHub" />
 </div>
 
-### Padrões e Conceitos
-- **Dev'Ops**
-- **Clean Code**
-- **SOLID** 
-- **Testes Automatizados** 
-- **DTO (Data Transfer Object)** 
-- **Exception Handling** 
-- **JSON manipulation**
-- **File Operations** 
-- **OOP avançado:**
+---
 
-## Contatos
+## Habilidades Profissionais
+
+### Práticas de Desenvolvimento
+- Princípios de **Clean Code**
+- Princípios de design **SOLID**
+- Fundamentos de **DevOps**
+- **Desenvolvimento Orientado a Testes (TDD)**
+
+### Expertise Técnica
+- Design e implementação de APIs RESTful
+- Programação Orientada a Objetos (OOP)
+- Padrão Data Transfer Objects (DTO)
+- Estratégias de tratamento de exceções
+- Manipulação de JSON
+- Operações com arquivos
+- Design e otimização de banco de dados
+
+### Testes e Qualidade
+- Testes unitários com JUnit
+- Testes de integração
+- Mocking com Mockito
+- Análise de cobertura de código
+
+---
+
+## Conecte-se Comigo
 
 <div align="center">
-  <a href="https://instagram.com/bernardo_ksmt" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:bernardokist@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BKSrn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-kist-souza-7956a0245/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bernardo_ksmt)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardokist@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BKSrn)
+  
 </div>
 
-## Contribuições
+---
+
+## Atividade de Contribuição
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BKSrn/BKSrn/output/github-contribution-grid-snake-dark.svg" 
-    alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/BKSrn/BKSrn/output/github-contribution-grid-snake-dark.svg" alt="Animação cobra" />
 </div>
 
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/BKSrn">BKSrn</a> | 🎯 Focusing on continuous learning</p>
+  <img src="https://komarev.com/ghpvc/?username=BKSrn&color=6DB33F&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do perfil" />
+  
+  ### "O aprendizado contínuo é a chave para o crescimento contínuo"
+  
+  De [BKSrn](https://github.com/BKSrn)
 </div>
-
