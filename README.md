@@ -119,12 +119,6 @@ API REST completa para sistema de vendas, implementando operações CRUD e regra
 ---
 
 ## Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BKSrn&show_icons=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub do Bernardo" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKSrn&layout=compact&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens Mais Usadas" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BKSrn&theme=dark&hide_border=true&stroke=0000&background=0D1117&currStreakLabel=6DB33F&ring=6DB33F&fire=6DB33F" alt="Sequência GitHub" />
 </div>
