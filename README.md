@@ -58,13 +58,14 @@ Sou um profissional dedicado, apaixonado por aprender e por compartilhar conheci
 
 ### Padrões e Conceitos
 - **Dev'Ops**
+- **Clean Code**
 - **SOLID** 
 - **Testes Automatizados** 
 - **DTO (Data Transfer Object)** 
 - **Exception Handling** 
 - **JSON manipulation**
 - **File Operations** 
-- **OOP avançado:** 
+- **OOP avançado:**
 
 ## Contatos
 
